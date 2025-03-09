@@ -2,6 +2,7 @@ Example plain HTML site using GitLab Pages.
 
 Learn more about GitLab Pages at https://pages.gitlab.io and the official
 documentation https://docs.gitlab.com/ce/user/project/pages/.
+---
 **video link**: https://drive.google.com/file/d/1vYmnbOefHc-QUvIB37a1-WMlRqM_xu4B/view?usp=sharing
 
 ---
